@@ -67,12 +67,12 @@ Course :
   
 <select>  
 <option value="Course">Course</option>  
-<option value="GIT">GIT</option>  
-<option value="MAVEN">MAVEN</option>  
-<option value="JENKINS">JENKINS</option>  
-<option value="DOCKER">DOCKER</option>  
-<option value="ANSIBLE">ANSIBLE</option>  
-<option value="KUBENERTES">KUBENERTES</option>  
+<option value="TERRAFORM">TERRAFORM</option>  
+<option value="AWS">AWS</option>  
+<option value="NAGIOS">NAGIOS</option>  
+<option value="PROMETHEUS">PROMETHEUS</option>  
+<option value="GRAFANA">GRAFANA</option>  
+<option value="LINUX">LINUX</option>  
 </select>  
 </div>  
 <div>  
