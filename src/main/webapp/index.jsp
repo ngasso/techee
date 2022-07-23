@@ -1,7 +1,7 @@
 <html>
 <body>
 <h2>Hello! Welcome to TT New World Technology.</h2>
-<h2>We will take you from zero to engineer</h2>
+<h2>We will take you from zero to engineer from the confort of your home</h2>
 
 
 <meta name="viewport" content="width=device-width, initial-scale=1">  
@@ -72,7 +72,8 @@ Course :
 <option value="NAGIOS">NAGIOS</option>  
 <option value="PROMETHEUS">PROMETHEUS</option>  
 <option value="GRAFANA">GRAFANA</option>  
-<option value="LINUX">LINUX</option>  
+<option value="LINUX">LINUX</option> 
+<option value="JIRA">JIRA</option>
 </select>  
 </div>  
 <div>  
